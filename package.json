@@ -1,0 +1,12 @@
+{
+  "name": "eslink",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": "https://github.com/moaiqin/eslink.git",
+  "author": "982405672@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.7.0"
+  }
+}

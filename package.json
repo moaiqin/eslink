@@ -6,10 +6,15 @@
   "repository": "https://github.com/moaiqin/eslink.git",
   "author": "982405672@qq.com",
   "license": "MIT",
+  "script":{
+    "lint":"eslint src/* --fix"
+  },
   "dependencies": {
     "react": "^16.7.0"
   },
   "devDependencies": {
     "pre-commit": "^1.2.2"
-  }
+  },
+  "pre-commit": [
+  ]
 }

@@ -24,6 +24,8 @@ module.exports = {
         "semi": [
             "error",
             "never"
-        ]
+        ],
+        "no-alert": "off",
+        "no-undef": "off"
     }
 };

@@ -11,5 +11,6 @@ module.exports = {
     "rules": {
         "no-alert": 2,
         "no-undef": 2,
+        "no-unused-vars": [2, {"vars": "all", "args": "after-used"}], //定义未使用
     }
 };

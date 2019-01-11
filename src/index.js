@@ -1,3 +1,4 @@
 let a = 100
 console.log(a,"88")
-// alert(1)
+let b = 10;
+console.log(b);
